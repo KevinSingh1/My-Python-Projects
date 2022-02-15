@@ -1,1 +1,2 @@
-
+**CUSTOMER SEGMENTATION USING MACHINE LEARNING**
+  Dividing customers into different groups using various machine learning algorithms: Elbow method, Dendrogram method, Silhouette method and Calinski-Harabasz Method.
